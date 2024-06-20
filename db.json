@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "shira",
+      "password": "6666",
+      "name": "shiri",
+      "phone": "058666666666",
+      "email": "shiri@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "momo",
+      "password": "4444",
+      "name": "moriel",
+      "phone": "0584625255",
+      "email": "morderi2142@gmail.com"
+    },
+    {
+      "id": 3,
+      "username": "hello",
+      "password": "123",
+      "name": "Naama",
+      "phone": "0584635255",
+      "email": "naamaderee@gmail.com"
+    }
+  ],
+  "todos": [
+    {
+      "userId": 2,
+      "id": 1,
+      "title": "finish fswd project",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "cook for shabbat",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 3,
+      "title": "finish college",
+      "completed": true
+    }
+  ]
+}
